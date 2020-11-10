@@ -1,0 +1,9 @@
+name: TagShop
+main: MulkiAqi192\TagShop\Main
+author: MulkiAqi192
+api: 3.0.0
+version: 1.0
+
+commands:
+  tags:
+    description: "Tag Shop"
